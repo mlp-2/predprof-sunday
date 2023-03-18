@@ -16,6 +16,8 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+*.ldf
+
 # Mono auto generated files
 mono_crash.*
 
@@ -263,11 +265,6 @@ UpgradeLog*.XML
 UpgradeLog*.htm
 ServiceFabricBackup/
 *.rptproj.bak
-
-# SQL Server files
-*.mdf
-*.ldf
-*.ndf
 
 # Business Intelligence projects
 *.rdl.data
